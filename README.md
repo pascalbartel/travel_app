@@ -1,4 +1,4 @@
-# Travel App
+# Example Travel App
 
 This is an example web page for an imaginary travel app, showcasing modern web development techniques and a sleek UI design for a camping and outdoor adventure platform.
 
@@ -17,3 +17,4 @@ This is an example web page for an imaginary travel app, showcasing modern web d
 - Modern, clean UI showcasing various sections of the travel app
 - Custom Tailwind CSS configurations for a unique design system
 
+![travel_app](https://github.com/user-attachments/assets/d87845d0-0d6b-46ef-a039-f6c03ae511c9)
